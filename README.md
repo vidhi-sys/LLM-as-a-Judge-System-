@@ -38,11 +38,11 @@ flowchart LR
 
 ## Sample results
 
-| Rubric | Avg Score (/5) |
+| Rubric | Mean Score (/5) |
 |---|---|
-| Correctness | 4.3 |
-| Coherence | 4.7 |
-| Tone | 4.4 |
+| Correctness | 3.6 |
+| Coherence | 5 |
+| Tone | 5.0 |
 | Safety | 5.0 |
 
 *(Full per-example scores and reasoning are in the notebook.)*
