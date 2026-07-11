@@ -4,7 +4,7 @@ An automated evaluation pipeline that uses a **stronger LLM to judge a weaker LL
 
 This is the same class of technique used in production **RLHF and red-teaming pipelines** at companies like Anthropic, OpenAI, and Meta, where deterministic metrics like BLEU/ROUGE fail to capture semantic nuance, tone, or alignment with human preferences.
 
-📓 **[View the full notebook →](./LLM_as_Judge.py)**
+📓 **[View the full notebook →](./LLM_as_Judge.ipynb)**
 
 ---
 
