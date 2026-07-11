@@ -1,4 +1,4 @@
-# 🧑‍⚖️ LLM-as-a-Judge — Automated Evaluation with G-Eval
+# 🧑‍⚖️ LLM-as-a-Judge : Automated Evaluation with G-Eval
 
 An automated evaluation pipeline that uses a **stronger LLM to judge a weaker LLM's outputs** against custom rubrics — coherence, correctness, tone, and safety — using **G-Eval**, a chain-of-thought scoring technique.
 
@@ -22,7 +22,7 @@ flowchart LR
     C --> E[Correctness]
     C --> F[Tone]
     C --> G[Safety]
-    D & E & F & G --> H[Scored Results<br/>+ Human Agreement Check]
+    
 ```
 
 1. **Dataset:** [AlpacaEval](https://huggingface.co/datasets/tatsu-lab/alpaca_eval) — 805 instructions with reference outputs for pairwise comparison
